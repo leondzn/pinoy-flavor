@@ -1,0 +1,65 @@
+name_list_iloko = {
+
+  cadet_dynasty_names = {
+    # Vanilla
+    dynn_Batan dynn_Ifugao dynn_Tagay dynn_Tagalao dynn_Haringasin
+    # New — historical dynasties
+    dynn_Guiyeb dynn_Madayag dynn_Salamban
+    dynn_Lamang dynn_Kannoyan dynn_Sumarang
+    dynn_Angalo dynn_Samtoy
+    dynn_Almazan dynn_Magsanop dynn_Gumapos dynn_Silang
+  }
+
+  dynasty_names = {
+    # Vanilla
+    dynn_Batan dynn_Ifugao dynn_Tagay dynn_Tagalao dynn_Haringasin
+    # New — historical dynasties
+    dynn_Guiyeb dynn_Madayag dynn_Salamban
+    dynn_Lamang dynn_Kannoyan dynn_Sumarang
+    dynn_Angalo dynn_Samtoy
+    dynn_Almazan dynn_Magsanop dynn_Gumapos dynn_Silang
+  }
+
+  male_names = {
+    # Vanilla
+    Abaya Agani Agatep Agbayani Agbulos Agbunag Aglipay Agpangan Agpaoa
+    Agsalud Agtarap Ayo Bagaoisan Bakiran Baruga Bukaneg Bulusan
+    Dancel Dukusin Gaffud Gakutan Isem Kaday Lipay Madamba Madarang
+    Malong Mamaklay Nasudi Pagaduan Sudi Taer Takder Takderan Taraki
+    # New
+    Agtalek Agtignay Agtutubo
+    Ariwanas Ayat Balitok Bannawag Biag Biagpayso
+    Dakkel Dayaw Gaget
+    Kinasayaat Kinasayaatan Kinasiglat Kinasiglatan
+    Kinatibker Kinatibkeran Kinaulimek Kinaulimekan
+    Kinaurnos Kinaurnosan Kinasirib Kinasiriban
+    Laing Linteg Liwliwa Liwliwan
+    Nabileg Nabilegan Naimbag Naimbagan
+    Napigsa Napintasan Nasayaat Nasayaatan
+    Nasirib Nasiriban Natibker Natibkeran
+    Pateg Pategan Pigsa Puso
+    Ragsak Ragsakan Raniag Raniagan
+    Sayaat Sayaatan Sirib Siriban
+    Talna Talnaan Talek Tignay Tignayan Tured
+    Ulep Ulepan
+  }
+
+  female_names = {
+    # Vanilla
+    Biag Bulalayaw Darisay Diaya Isem Kaasi Liway Liwliwa
+    Puti Putri Sagaysay Saniata Talna Ulep
+    # New
+    Ayat Balitok Bannawag
+    Caburayan Kannoyan
+    Kinasayaat Kinasayaatan
+    Kinaurnos Kinaurnosan Kinaulimek Kinaulimekan
+    Kinasirib Kinasiriban
+    Namongan Nabileg Nabilegan Naimbag Naimbagan
+    Napintas Napintasan Nasayaat Nasayaatan
+    Nasirib Nasiriban Natibker Natibkeran
+    Pateg Pategan Ragsak Ragsakan
+    Raniag Raniagan Saridandan
+    Sayaat Sayaatan Sirib Siriban
+    Talnaan Ulepan
+  }
+}

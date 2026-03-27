@@ -1,0 +1,76 @@
+name_list_bisayan = {
+
+  cadet_dynasty_names = {
+    # Vanilla
+    dynn_Kalanay dynn_Lagben dynn_Tulopulo
+    dynn_Salotulo dynn_Mamayla dynn_Dapita
+    dynn_Leyte dynn_Ibabao dynn_Maranao
+    dynn_Kutanao dynn_Samboang dynn_Sanmalan
+    dynn_Katutua dynn_Lupasu dynn_Makki
+    dynn_Bantuan dynn_Kalag dynn_Davohoho
+    dynn_Malita dynn_Madyaas
+    # New — historical dynasties
+    dynn_Lumay dynn_Kolambu dynn_Bankaw dynn_Iberein
+    dynn_Tandaya dynn_Tamblot dynn_Dinagandan dynn_Manduyog
+    dynn_Kabnayag dynn_Marikudo dynn_Dumangsol
+  }
+
+  dynasty_names = {
+    # Vanilla
+    dynn_Kalanay dynn_Lagben dynn_Tulopulo
+    dynn_Salotulo dynn_Mamayla dynn_Dapita
+    dynn_Leyte dynn_Ibabao dynn_Maranao
+    dynn_Kutanao dynn_Samboang dynn_Sanmalan
+    dynn_Katutua dynn_Lupasu dynn_Makki
+    dynn_Bantuan dynn_Kalag dynn_Davohoho
+    dynn_Malita dynn_Madyaas
+    # New — historical dynasties
+    dynn_Lumay dynn_Kolambu dynn_Bankaw dynn_Iberein
+    dynn_Tandaya dynn_Tamblot dynn_Dinagandan dynn_Manduyog
+    dynn_Kabnayag dynn_Marikudo dynn_Dumangsol
+  }
+
+  male_names = {
+    # Vanilla
+    Bangkaya Bantug Bato Batumay Binidayan Botod Bualan Bubong Buisan
+    Cabon Catipan Catunao Dagang Dailisan Dani Dayao Dimasangkay Dolangan
+    Galawan Gamhanan Hari Horohan Humabon Huna Kaalam Kabungsuan Kalawi Kanor Katchil Kusgano
+    Lapu Lapulapu Lilo Linampas Lubay Lumasa Lunti Luntian
+    Madalum Maguing Makaalang Makan Malalis Malambing Malungun Mangal Mangubat
+    Maquio Marantao Marawi Matampay Matikas
+    Padas Padohinog Pagbuaya Paiburong Parang Pitakes Po Pualas Pula Puti Ragayan
+    Salikula Siagu Sigala Sikatuna Silongan Sipad Sumakwel
+    Talagian Taluan Timbab Tugaya Tupas Uto Wato
+    # New
+    Abtik Adlaw Agos Alimpulos Alon Balud Banlas Bantugay Barug
+    Bayhon Binalay Bulanon Bulawan Bughaw Bugnay Dagatnon Dalisaynon Duyog
+    Duyan Duyanay Gahum Gani Gantihan Hilas Hinagiban Huni Hulagway Huyop
+    Kadasig Kadlawon Kadungganan Kahalangdon Kahayag Kahimtang Kahiusa Kaisug
+    Kalagsik Kalipay Kalumo Kamalig Kamatuoran Kusog Kusgan Kusogay
+    Langitnon Lantugi Lantaw Lihok Lihoknon Liyok Lunhawon Luyo Luyag
+    Madaugon Madanihon Maisog Malipayon Malumo Mapasalamaton Mapisan Mapisanon
+    Marang Marig-on Masinati Matinud-anon Matulinon Mayabong Mayani
+    Mayumay Padasig Paglaum Pagpadayon Pagtuo Pagsidlak Pahiluna Paningkamot
+    Panudlo Panubli Punoan Pusod Sagubang Sidlak Sidlakon Sigla Siglon Sinagdan
+    Sinugdanan Sumbanan Sumpay Talagsaon Tanom Tinuod Tinguha Tubod Tuman
+    Tumanon Uban Ubanan Ulahi Yuta Yutangon
+  }
+
+  female_names = {
+    # Vanilla
+    Adhika Angintabo Bulak Bulakna Dayaw Daylinda Gihay Gugma Gumamela
+    Hara Himaya Humamay Huna Imbog Inaguinid Inday Lalahon Laya Liloana
+    Maaya Maayo Mahinhin Malambing Mampey Maroan Matahom Matahum
+    Pula Putri Sula Toyaga Tunina Una
+    # New
+    Adlawon Alonay Amuma Aninaw Banag Banhaw Bulawanon Dalum Dalumay
+    Dayon Dayunon Ginhawa Ginhawaon Higugma Huniay Ilaya Ilaynon
+    Kahumot Kalipay Kalinaw Kalumo Kamangyan Kamatuoran Kahayag Kahimaya
+    Kasingkasing Kasingkasingon Kasadya Kusogay Lantugi Lantaw Lantawan
+    Lilay Lila Liyag Liyaga Luyo Maalindog Madanihon Mahumot Malipayon Malumo
+    Manggad Mapisanon Mapuangod Mapasalamaton Marig-on Masilaw Masinati
+    Matinud-anon Mayumay Mayabong Paglaum Pagtuo Pagsidlak Palangga Panubli
+    Pasilong Pusod Sadya Sidlak Sigla Sinagdan Sumbanan Sumpay Talagsaon Tanom
+    Tinguha Tuburan Tubod Uban Ubanan Ulahi Yuta Yutangon
+  }
+}

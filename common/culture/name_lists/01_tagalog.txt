@@ -1,0 +1,71 @@
+name_list_tagalog = {
+
+  cadet_dynasty_names = {
+    # Vanilla
+    dynn_Pilapil dynn_Tundok dynn_Mait dynn_Baltog
+    # New — historical dynasties
+    dynn_Dula dynn_Soliman dynn_Namwaran dynn_Kasumuran
+    dynn_Gatdula dynn_Gatmaitan dynn_Gatbonton
+    dynn_Capulong dynn_Dulay dynn_Manuguit dynn_Salonga
+  }
+
+  dynasty_names = {
+    # Vanilla
+    dynn_Pilapil dynn_Tundok dynn_Mait dynn_Baltog
+    # New — historical dynasties
+    dynn_Dula dynn_Soliman dynn_Namwaran dynn_Kasumuran
+    dynn_Gatdula dynn_Gatmaitan dynn_Gatbonton
+    dynn_Capulong dynn_Dulay dynn_Manuguit dynn_Salonga
+  }
+
+  male_names = {
+    # Vanilla
+    Abucay Alab Apolaki Araw
+    Babui Bacal Balingit Banaag Banog Bantuan Bantugan Batongbakal Bayani Biag Bishruta Bituin Bituon
+    Bondoc Buhag Bunao Buwan Calao Calapati Chulan Daan Dakila Dalisay Dambana Damo Dapo Dimayuga
+    Gambang Ganashakti Gat Gubaton Habagat Halili Himig Hiraya Ilog Inag Jayadewa
+    Kalangitan Kalaw Kanda Kapulong Kidlat Kiling Lakan Lawin Lontok
+    Magbanua Maglente Makatunaw Makisig Malacas Maliuag Manalastas Mandigma Manug Maya Mutya
+    Namwaran Olan Panganiban Pira Pitongatan Puno Puti
+    Salalila Seri Shaja Tahimik Tala Tanashiri Tanglao
+    # New
+    Ahang Alon Amang Arawan Baybay Bughaw Bulan Dangal Diwa Duyan
+    Giting Gubat Gunita Halimuyak Hangin Hiyasang Huni Ilaya Ilaw Ilayaon
+    Kalinga Kamagong Kariktan Kawayan Kidlatan Kislap Lahi Lakandiwa Lakandula Lakapati
+    Lantay Layaon Ligaw Likhain Luntian Luntiang Luningning
+    Maharlika Malaya Maliksi Malikhain Malinamnam Malumanay
+    Mapayapa Mapitagan Mapulang Marangal Marikit Marilag
+    Masigla Masinag Masipag Matimyas Matulin Matapang Mayabong Maylaya
+    Naghari Niyugan Pagasa Pagsibol Pagsilang Pagtanaw
+    Pangarap Panibugho Panimula Panukala Pawi Pinili Pintig
+    Sagisag Sanggalang Sibat Sikat Sinagtala Sining
+    Sulyap Suliranin Sumilang Sumiklab Sumilangon
+    Tanglaw Tanglawin Tibay Tikas Tikwas Tindig Tinig
+    Ulap Ugnay Ulan Umaga Umiral Umusbong Ural
+    Yakap Yaman Yari Yarihan Yaring
+  }
+
+  female_names = {
+    # Vanilla
+    Amihan Amohan Angkatan Bait Binuangan Binuyac Bukah Buwan Caliao Canipila Capala
+    Dalisay Dayang Diwata Doyong Duhali Gumamela Guna Hanan Hiraya Hiyas Ilogin
+    Kalangitan Labao Lahat Ligaya Ligot Liwayway Lualhati Luwalhati
+    Macaslin Mahal Mahalen Maligaya Malyag Manalo Manansam Manimbang Maquinso Marayag Marikit Mati
+    Mayari Mayumi Mutya Pagylagan Paihto Pangilagan Panguilinan Panginoan Paraluman Punay Puri Puti
+    Salamat Sasaban Sinag Solitan Suayan Tala Tanan Tanashiri Tibai Tibay Timbang Toling
+    # New
+    Amihanan Anila Aninag Aninaw Banaag Bighani Bituing Bughaw Bulalakaw
+    Diwatahan Diwani Duyan Ganda Giliw Gunita
+    Halina Haliya Hiyasang Himaya
+    Ibigin Ilaya Ilaw Ilaon
+    Kabigha Kabiyak Kalinga Kalinaw Kamuning Kanlungan Kapilas Kariktan Kislap
+    Lakambini Likhaya Likhain Luningning
+    Maganda Magiting Maharlika Malaya Malinamnam Malumanay
+    Mapayapa Mapagmahal Mapitagan Marilag Masigla Masinag Maylaya
+    Nagningning Niyugan Pagasa Pagsibol Pagsilang
+    Panata Panaginip Panibugho Panatahan Panimula Pawi Pinili
+    Sagisag Sariwa Sinta Sinagtala Sining Sulyap Sumilang Sumilay
+    Tanglaw Tining Ulap Ugnay Ulan Umaga Umiral Umusbong
+    Yakap Yaman Yari Yaring Yaringganda
+  }
+}

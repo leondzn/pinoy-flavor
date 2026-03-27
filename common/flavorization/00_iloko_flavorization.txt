@@ -3,337 +3,337 @@
 
 # Barony - priority 500
 iloko_baron_male = {
-	type = character
-	gender = male
-	special = holder
-	tier = barony
-	priority = 500
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = holder
+  tier = barony
+  priority = 500
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_baron_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = barony
-	priority = 500
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = holder
+  tier = barony
+  priority = 500
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_barony = {
-	type = title
-	tier = barony
-	priority = 500
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = title
+  tier = barony
+  priority = 500
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # County - priority 510
 iloko_count_male = {
-	type = character
-	gender = male
-	special = holder
-	tier = county
-	priority = 510
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = holder
+  tier = county
+  priority = 510
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_count_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = county
-	priority = 510
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = holder
+  tier = county
+  priority = 510
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_county = {
-	type = title
-	tier = county
-	priority = 510
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = title
+  tier = county
+  priority = 510
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # Duchy - priority 520
 iloko_duke_male = {
-	type = character
-	gender = male
-	special = holder
-	tier = duchy
-	priority = 520
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = holder
+  tier = duchy
+  priority = 520
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_duke_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = duchy
-	priority = 520
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = holder
+  tier = duchy
+  priority = 520
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_duchy = {
-	type = title
-	tier = duchy
-	priority = 520
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = title
+  tier = duchy
+  priority = 520
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # Kingdom - priority 530
 iloko_king_male = {
-	type = character
-	gender = male
-	special = holder
-	tier = kingdom
-	priority = 530
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = holder
+  tier = kingdom
+  priority = 530
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_king_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = kingdom
-	priority = 530
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = holder
+  tier = kingdom
+  priority = 530
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_kingdom = {
-	type = title
-	tier = kingdom
-	priority = 530
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = title
+  tier = kingdom
+  priority = 530
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # Empire - priority 540
 iloko_emperor_male = {
-	type = character
-	gender = male
-	special = holder
-	tier = empire
-	priority = 540
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = holder
+  tier = empire
+  priority = 540
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_emperor_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = empire
-	priority = 540
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = holder
+  tier = empire
+  priority = 540
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_empire = {
-	type = title
-	tier = empire
-	priority = 540
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = title
+  tier = empire
+  priority = 540
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # Hindu/Buddhist layer
 
 # Kingdom - priority 545
 iloko_king_male_hindu = {
-	type = character
-	gender = male
-	special = holder
-	tier = kingdom
-	priority = 545
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { hinduism_religion buddhism_religion jainism_religion }
+  type = character
+  gender = male
+  special = holder
+  tier = kingdom
+  priority = 545
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { hinduism_religion buddhism_religion jainism_religion }
 }
 iloko_king_female_hindu = {
-	type = character
-	gender = female
-	special = holder
-	tier = kingdom
-	priority = 545
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { hinduism_religion buddhism_religion jainism_religion }
+  type = character
+  gender = female
+  special = holder
+  tier = kingdom
+  priority = 545
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { hinduism_religion buddhism_religion jainism_religion }
 }
 iloko_kingdom_hindu = {
-	type = title
-	tier = kingdom
-	priority = 545
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { hinduism_religion buddhism_religion jainism_religion }
+  type = title
+  tier = kingdom
+  priority = 545
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { hinduism_religion buddhism_religion jainism_religion }
 }
 
 # Empire - priority 555
 iloko_emperor_male_hindu = {
-	type = character
-	gender = male
-	special = holder
-	tier = empire
-	priority = 555
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { hinduism_religion buddhism_religion jainism_religion }
+  type = character
+  gender = male
+  special = holder
+  tier = empire
+  priority = 555
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { hinduism_religion buddhism_religion jainism_religion }
 }
 iloko_emperor_female_hindu = {
-	type = character
-	gender = female
-	special = holder
-	tier = empire
-	priority = 555
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { hinduism_religion buddhism_religion jainism_religion }
+  type = character
+  gender = female
+  special = holder
+  tier = empire
+  priority = 555
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { hinduism_religion buddhism_religion jainism_religion }
 }
 iloko_empire_hindu = {
-	type = title
-	tier = empire
-	priority = 555
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { hinduism_religion buddhism_religion jainism_religion }
+  type = title
+  tier = empire
+  priority = 555
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { hinduism_religion buddhism_religion jainism_religion }
 }
 
 # Muslim layer
 
 # Kingdom - priority 560
 iloko_king_male_muslim = {
-	type = character
-	gender = male
-	special = holder
-	tier = kingdom
-	priority = 560
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { islam_religion }
+  type = character
+  gender = male
+  special = holder
+  tier = kingdom
+  priority = 560
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { islam_religion }
 }
 iloko_king_female_muslim = {
-	type = character
-	gender = female
-	special = holder
-	tier = kingdom
-	priority = 560
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { islam_religion }
+  type = character
+  gender = female
+  special = holder
+  tier = kingdom
+  priority = 560
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { islam_religion }
 }
 iloko_kingdom_muslim = {
-	type = title
-	tier = kingdom
-	priority = 560
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { islam_religion }
+  type = title
+  tier = kingdom
+  priority = 560
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { islam_religion }
 }
 
 # Empire - priority 570
 iloko_emperor_male_muslim = {
-	type = character
-	gender = male
-	special = holder
-	tier = empire
-	priority = 570
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { islam_religion }
+  type = character
+  gender = male
+  special = holder
+  tier = empire
+  priority = 570
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { islam_religion }
 }
 iloko_emperor_female_muslim = {
-	type = character
-	gender = female
-	special = holder
-	tier = empire
-	priority = 570
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { islam_religion }
+  type = character
+  gender = female
+  special = holder
+  tier = empire
+  priority = 570
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { islam_religion }
 }
 iloko_empire_muslim = {
-	type = title
-	tier = empire
-	priority = 570
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
-	religions = { islam_religion }
+  type = title
+  tier = empire
+  priority = 570
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
+  religions = { islam_religion }
 }
 
 # Prince/Princess - priority 580
 iloko_prince_male = {
-	type = character
-	gender = male
-	special = ruler_child
-	tier = kingdom
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = ruler_child
+  tier = kingdom
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_princess_female = {
-	type = character
-	gender = female
-	special = ruler_child
-	tier = kingdom
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = ruler_child
+  tier = kingdom
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_prince_male_empire = {
-	type = character
-	gender = male
-	special = ruler_child
-	tier = empire
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = ruler_child
+  tier = empire
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_princess_female_empire = {
-	type = character
-	gender = female
-	special = ruler_child
-	tier = empire
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = ruler_child
+  tier = empire
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # Queen Mother - priority 580
 iloko_queen_mother = {
-	type = character
-	gender = female
-	special = queen_mother
-	tier = kingdom
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = queen_mother
+  tier = kingdom
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_empress_mother = {
-	type = character
-	gender = female
-	special = queen_mother
-	tier = empire
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = queen_mother
+  tier = empire
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 
 # Court Chaplain / Babaylan - priority 580
 iloko_babaylan_male = {
-	type = character
-	gender = male
-	special = councillor
-	council_position = councillor_court_chaplain
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = male
+  special = councillor
+  council_position = councillor_court_chaplain
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
 iloko_babaylan_female = {
-	type = character
-	gender = female
-	special = councillor
-	council_position = councillor_court_chaplain
-	priority = 580
-	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
-	name_lists = { name_list_iloko }
+  type = character
+  gender = female
+  special = councillor
+  council_position = councillor_court_chaplain
+  priority = 580
+  governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+  name_lists = { name_list_iloko }
 }
