@@ -1,0 +1,38 @@
+﻿l_english:
+
+  # Barony
+  tagalog_baron_male:0 "Gat"
+  tagalog_baron_female:0 "Dayang"
+  tagalog_barony:0 "Pamayanan"
+
+  # County
+  tagalog_count_male:0 "Datu"
+  tagalog_count_female:0 "Dayang"
+  tagalog_county:0 "Barangay"
+
+  # Duchy
+  tagalog_duke_male:0 "Lakan"
+  tagalog_duke_female:0 "Lakambini"
+  tagalog_duchy:0 "Bayan"
+
+  #Kingdom
+  tagalog_king_male:0 "Rajah"
+  tagalog_king_female:0 "Hara"
+  tagalog_kingdom:0 "Rajahnate"
+
+  tagalog_king_male_muslim:0 "Sultan"
+  tagalog_king_female_muslim:0 "Sultana"
+  tagalog_kingdom_muslim:0 "Kasultanan"
+
+  # Empire
+  tagalog_emperor_male:0 "Dakilang Rajah"
+  tagalog_emperor_female:0 "Dakilang Hara"
+  tagalog_empire:0 "Dakilang Rajahnate"
+
+  tagalog_emperor_male_hindu:0 "Maharajah"
+  tagalog_emperor_female_hindu:0 "Maharani"
+  tagalog_empire_hindu:0 "Maharajahnate"
+
+  tagalog_emperor_male_muslim:0 "Sultan"
+  tagalog_emperor_female_muslim:0 "Sultana"
+  tagalog_empire_muslim:0 "Dakilang Kasultanan"

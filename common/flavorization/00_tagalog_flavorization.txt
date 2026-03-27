@@ -1,0 +1,231 @@
+### Tagalog ###
+# Base indigenous titles (no religion filter)
+
+# Barony - priority 500
+tagalog_baron_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 500
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_baron_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 500
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_barony = {
+	type = title
+	tier = barony
+	priority = 500
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+
+# County - priority 510
+tagalog_count_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 510
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_count_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 510
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_county = {
+	type = title
+	tier = county
+	priority = 510
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+
+# Duchy - priority 520
+tagalog_duke_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 520
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_duke_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 520
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_duchy = {
+	type = title
+	tier = duchy
+	priority = 520
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+
+# Kingdom - priority 530
+tagalog_king_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 530
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_king_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 530
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_kingdom = {
+	type = title
+	tier = kingdom
+	priority = 530
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+
+# Empire - priority 540
+tagalog_emperor_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 540
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_emperor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 540
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+tagalog_empire = {
+	type = title
+	tier = empire
+	priority = 540
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+}
+
+# Hindu/Buddhist layer
+
+# Empire - priority 555
+tagalog_emperor_male_hindu = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 555
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { hinduism_religion buddhism_religion jainism_religion }
+}
+tagalog_emperor_female_hindu = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 555
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { hinduism_religion buddhism_religion jainism_religion }
+}
+tagalog_empire_hindu = {
+	type = title
+	tier = empire
+	priority = 555
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { hinduism_religion buddhism_religion jainism_religion }
+}
+
+# Muslim layer
+
+# Kingdom - priority 560
+tagalog_king_male_muslim = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 560
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { islam_religion }
+}
+tagalog_king_female_muslim = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 560
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { islam_religion }
+}
+tagalog_kingdom_muslim = {
+	type = title
+	tier = kingdom
+	priority = 560
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { islam_religion }
+}
+
+# Empire - priority 570
+tagalog_emperor_male_muslim = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 570
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { islam_religion }
+}
+tagalog_emperor_female_muslim = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 570
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { islam_religion }
+}
+tagalog_empire_muslim = {
+	type = title
+	tier = empire
+	priority = 570
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	religions = { islam_religion }
+}

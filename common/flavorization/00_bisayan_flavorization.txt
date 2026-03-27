@@ -1,0 +1,201 @@
+### Bisayan ###
+# Base indigenous titles (no religion filter)
+# Note: Bisayan polities were more Indianized historically, so "Rajah" is the base kingdom title.
+# No separate Hindu/Buddhist layer needed.
+
+# Barony - priority 500
+bisayan_baron_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 500
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_baron_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 500
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_barony = {
+	type = title
+	tier = barony
+	priority = 500
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+
+# County - priority 510
+bisayan_count_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 510
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_count_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 510
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_county = {
+	type = title
+	tier = county
+	priority = 510
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+
+# Duchy - priority 520
+bisayan_duke_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 520
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_duke_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 520
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_duchy = {
+	type = title
+	tier = duchy
+	priority = 520
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+
+# Kingdom - priority 530
+bisayan_king_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 530
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_king_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 530
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_kingdom = {
+	type = title
+	tier = kingdom
+	priority = 530
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+
+# Empire - priority 540
+bisayan_emperor_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 540
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_emperor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 540
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+bisayan_empire = {
+	type = title
+	tier = empire
+	priority = 540
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+}
+
+# Muslim layer
+
+# Kingdom - priority 560
+bisayan_king_male_muslim = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 560
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+	religions = { islam_religion }
+}
+bisayan_king_female_muslim = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 560
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+	religions = { islam_religion }
+}
+bisayan_kingdom_muslim = {
+	type = title
+	tier = kingdom
+	priority = 560
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+	religions = { islam_religion }
+}
+
+# Empire - priority 570
+bisayan_emperor_male_muslim = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 570
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+	religions = { islam_religion }
+}
+bisayan_emperor_female_muslim = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 570
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+	religions = { islam_religion }
+}
+bisayan_empire_muslim = {
+	type = title
+	tier = empire
+	priority = 570
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_bisayan }
+	religions = { islam_religion }
+}

@@ -1,0 +1,34 @@
+﻿l_english:
+
+  # Barony
+  bisayan_baron_male:0 "Timawa"
+  bisayan_baron_female:0 "Timawa"
+  bisayan_barony:0 "Banwa"
+
+  # County
+  bisayan_count_male:0 "Datu"
+  bisayan_count_female:0 "Dayang"
+  bisayan_county:0 "Barangay"
+
+  # Duchy
+  bisayan_duke_male:0 "Punong Datu"
+  bisayan_duke_female:0 "Punong Dayang"
+  bisayan_duchy:0 "Dakong Banwa"
+
+  # Kingdom
+  bisayan_king_male:0 "Rajah"
+  bisayan_king_female:0 "Hara"
+  bisayan_kingdom:0 "Ginharian"
+
+  bisayan_king_male_muslim:0 "Sultan"
+  bisayan_king_female_muslim:0 "Sultana"
+  bisayan_kingdom_muslim:0 "Kasultanan"
+
+  # Empire
+  bisayan_emperor_male:0 "Rajah nga Tanan"
+  bisayan_emperor_female:0 "Hara nga Tanan"
+  bisayan_empire:0 "Dakong Ginharian"
+
+  bisayan_emperor_male_muslim:0 "Sultan"
+  bisayan_emperor_female_muslim:0 "Sultana"
+  bisayan_empire_muslim:0 "Dakong Kasultanan"

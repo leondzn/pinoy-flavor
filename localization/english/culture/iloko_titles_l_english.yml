@@ -1,0 +1,42 @@
+﻿l_english:
+
+  # Barony
+  iloko_baron_male:0 "Apo"
+  iloko_baron_female:0 "Apo"
+  iloko_barony:0 "Ili"
+
+  # County
+  iloko_count_male:0 "Apo"
+  iloko_count_female:0 "Apo"
+  iloko_county:0 "Ili"
+
+  # Duchy
+  iloko_duke_male:0 "Nangato nga Apo"
+  iloko_duke_female:0 "Nangato nga Apo"
+  iloko_duchy:0 "Pagilian"
+
+  # Kingdom
+  iloko_king_male:0 "Apo nga Ari"
+  iloko_king_female:0 "Apo nga Ari"
+  iloko_kingdom:0 "Pagarian"
+
+  iloko_king_male_hindu:0 "Rajah"
+  iloko_king_female_hindu:0 "Rajah"
+  iloko_kingdom_hindu:0 "Pagarian"
+
+  iloko_king_male_muslim:0 "Sultan"
+  iloko_king_female_muslim:0 "Sultana"
+  iloko_kingdom_muslim:0 "Kasultanan"
+
+  # Empire
+  iloko_emperor_male:0 "Dakkel nga Apo"
+  iloko_emperor_female:0 "Dakkel nga Apo"
+  iloko_empire:0 "Dakkel a Pagarian"
+
+  iloko_emperor_male_hindu:0 "Maharajah"
+  iloko_emperor_female_hindu:0 "Maharani"
+  iloko_empire_hindu:0 "Dakkel a Pagarian"
+
+  iloko_emperor_male_muslim:0 "Sultan nga Dakkel"
+  iloko_emperor_female_muslim:0 "Sultana nga Dakkel"
+  iloko_empire_muslim:0 "Dakkel a Kasultanan"
