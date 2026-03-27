@@ -32,3 +32,17 @@
   bisayan_emperor_male_muslim:0 "Sultan"
   bisayan_emperor_female_muslim:0 "Sultana"
   bisayan_empire_muslim:0 "Dakong Kasultanan"
+
+  # Prince/Princess
+  bisayan_prince_male:0 "Anak sa Rajah"
+  bisayan_princess_female:0 "Anak sa Hara"
+  bisayan_prince_male_empire:0 "Anak sa Rajah"
+  bisayan_princess_female_empire:0 "Anak sa Hara"
+
+  # Queen Mother
+  bisayan_queen_mother:0 "Inahan sa Rajah"
+  bisayan_empress_mother:0 "Inahan sa Rajah"
+
+  # Court Chaplain
+  bisayan_babaylan_male:0 "Babaylan"
+  bisayan_babaylan_female:0 "Babaylan"

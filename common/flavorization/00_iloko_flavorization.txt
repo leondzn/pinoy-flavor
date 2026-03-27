@@ -259,3 +259,81 @@ iloko_empire_muslim = {
 	name_lists = { name_list_iloko }
 	religions = { islam_religion }
 }
+
+# Prince/Princess - priority 580
+iloko_prince_male = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = kingdom
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+iloko_princess_female = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = kingdom
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+iloko_prince_male_empire = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = empire
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+iloko_princess_female_empire = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = empire
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+
+# Queen Mother - priority 580
+iloko_queen_mother = {
+	type = character
+	gender = female
+	special = queen_mother
+	tier = kingdom
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+iloko_empress_mother = {
+	type = character
+	gender = female
+	special = queen_mother
+	tier = empire
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+
+# Court Chaplain / Babaylan - priority 580
+iloko_babaylan_male = {
+	type = character
+	gender = male
+	special = councillor
+	council_position = councillor_court_chaplain
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}
+iloko_babaylan_female = {
+	type = character
+	gender = female
+	special = councillor
+	council_position = councillor_court_chaplain
+	priority = 580
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_iloko }
+}

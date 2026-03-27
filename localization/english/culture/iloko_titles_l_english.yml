@@ -40,3 +40,17 @@
   iloko_emperor_male_muslim:0 "Sultan nga Dakkel"
   iloko_emperor_female_muslim:0 "Sultana nga Dakkel"
   iloko_empire_muslim:0 "Dakkel a Kasultanan"
+
+  # Prince/Princess
+  iloko_prince_male:0 "Anak ti Apo"
+  iloko_princess_female:0 "Anak ti Apo"
+  iloko_prince_male_empire:0 "Anak ti Apo"
+  iloko_princess_female_empire:0 "Anak ti Apo"
+
+  # Queen Mother
+  iloko_queen_mother:0 "Ina ti Apo"
+  iloko_empress_mother:0 "Ina ti Apo"
+
+  # Court Chaplain
+  iloko_babaylan_male:0 "Babaylan"
+  iloko_babaylan_female:0 "Babaylan"

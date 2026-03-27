@@ -36,3 +36,17 @@
   tagalog_emperor_male_muslim:0 "Sultan"
   tagalog_emperor_female_muslim:0 "Sultana"
   tagalog_empire_muslim:0 "Dakilang Kasultanan"
+
+  # Prince/Princess
+  tagalog_prince_male:0 "Anak ng Rajah"
+  tagalog_princess_female:0 "Anak ng Hara"
+  tagalog_prince_male_empire:0 "Anak ng Rajah"
+  tagalog_princess_female_empire:0 "Anak ng Hara"
+
+  # Queen Mother
+  tagalog_queen_mother:0 "Ina ng Rajah"
+  tagalog_empress_mother:0 "Ina ng Rajah"
+
+  # Court Chaplain
+  tagalog_babaylan_male:0 "Babaylan"
+  tagalog_babaylan_female:0 "Babaylan"
