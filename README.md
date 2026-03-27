@@ -2,7 +2,7 @@
 
 A Crusader Kings III mod that adds authentic Philippine cultural flavor for the **Tagalog**, **Bisayan**, and **Iloko** cultures.
 
-Out of the box, CK3 assigns generic Austronesian, Sanskrit, or Dravidian labels to Philippine rulers and their courts. This mod overrides those with historically grounded Filipino terms drawn from pre-colonial Philippine society.
+Out of the box, CK3 assigns generic Austronesian, Sanskrit, or Dravidian labels to Philippine rulers and their courts. This mod overrides those with historically grounded Filipino terms drawn from pre-colonial Philippine society. It also expands the vanilla name pools for all three cultures with dictionary-verified personal names and historically attested dynasty names.
 
 ---
 
@@ -53,6 +53,16 @@ Religion-specific overrides:
 | Bisayan | Babaylan | Babaylan |
 | Iloko | Babaylan | Babaylan |
 
+### Name Lists
+
+Expanded name pools for all three cultures, verified against language dictionaries and historical records.
+
+**Tagalog** new names draw from classical Tagalog poetry, pre-colonial vocabulary, and Baybayin-era records.
+
+**Bisayan** new names draw from Cebuano dictionaries, Hiligaynon epics, and attested pre-colonial rulers. New dynasty names include historical figures such as Rajah Kolambu, Lapulapu, Bankaw, and Marikudo.
+
+**Iloko** new names draw from the *Biag ni Lam-ang* epic (recorded c. 1640), Ilokano dictionaries, and attested morphological patterns (Kina-, Na-, Ag- forms). New dynasty names include pre-colonial rajas documented c. 1601, epic characters (Lam-ang, Kannoyan), the creation giant Angalo, and colonial-era revolt leaders including Diego and Gabriela Silang (1762).
+
 ---
 
 ## Installation
@@ -73,10 +83,7 @@ Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedet
 
 - **CK3 version:** 1.18.4
 - **Save games:** Safe to add mid-playthrough. No events, decisions, or game rules are modified.
-- **Files touched:**
-  - `common/flavorization/` — three new flavorization files
-  - `localization/english/culture/` — three new localization files
-- **Conflicts:** Will conflict with any mod that also defines flavorization blocks for `name_list_tagalog`, `name_list_bisayan`, or `name_list_iloko`. Load order should not matter for everything else.
+- **Conflicts:** Will conflict with any mod that also defines flavorization blocks or name lists for `name_list_tagalog`, `name_list_bisayan`, or `name_list_iloko`. Load order should not matter for everything else.
 
 ---
 
